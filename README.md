@@ -14,7 +14,7 @@ BlogCraft is an AI-powered tool that helps users generate engaging blog posts ba
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YourUsername/BlogCraft.git
+   git clone https://github.com/SudarshanC00/BlogCraft.git
    ```
 2. Navigate to the project directory:
    ```bash
